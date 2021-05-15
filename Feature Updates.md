@@ -1,4 +1,4 @@
-Version 1.9
+Version 2
 -------------
 Silent Aim Real Pogger!
 Added Aim Velocity base on your ping 
@@ -19,3 +19,4 @@ Added Aimbot put Bullet Prediction, Bullet Drop, and Smoothness
 Added Streamer Mode if you are streaming sharing your screen or making a youtube video it will make all the GUIS, notify, and nametags gone
 Added Bullet Prediction using Velocity and the distance to you and your target 
 Remove the tag seen from everyone who using my script only us can see your using it.
+Added get target from a player display name and fixed the Bullet Prediction
