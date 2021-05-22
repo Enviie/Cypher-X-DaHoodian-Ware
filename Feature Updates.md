@@ -20,3 +20,4 @@ Added Streamer Mode if you are streaming sharing your screen or making a youtube
 Added Bullet Prediction using Velocity and the distance to you and your target 
 Remove the tag seen from everyone who using my script only us can see your using it.
 Added get target from a player display name and fixed the Bullet Prediction
+Fixed Da-Hoodian Ware on updated Da Hood Modded added bypass for Da Hood Modded AC
